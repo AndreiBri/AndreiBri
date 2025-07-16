@@ -33,7 +33,7 @@ More projects available on my [GitHub Repositories](https://github.com/AndreiBri
 
 ## 💬 A bit about me
 
-Before diving into code, I worked as a bartender ☕ — and learned how to deal with pressure, teamwork, and customer service. 
+Before diving into code, I worked as a bartender 🍸 — and learned how to deal with pressure, teamwork, and customer service. 
 Now, I apply that same dedication to solving coding problems and collaborating with dev teams.
 
 ---
