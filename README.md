@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Andrei Briceag!
 
-I'm an aspiring ** Junior Front-End Developer** from Italy 🇮🇹, passionate about building clean and responsive web interfaces. I’ve recently completed the **Responsive Web Design Certification** from freeCodeCamp and I'm currently learning **JavaScript Algorithms and Data Structures**.
+I'm an aspiring ** Junior Front-End Developer ** from Italy 🇮🇹, passionate about building clean and responsive web interfaces. I’ve recently completed the **Responsive Web Design Certification** from freeCodeCamp and I'm currently learning **JavaScript Algorithms and Data Structures**.
 
 ---
 
