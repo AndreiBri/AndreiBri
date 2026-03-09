@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Andrei Briceag!
 
-I'm an aspiring ** Junior Front-End Developer ** from Italy 🇮🇹, passionate about building clean and responsive web interfaces. I’ve recently completed the **Responsive Web Design Certification** from freeCodeCamp and I'm currently learning **JavaScript Algorithms and Data Structures**.
+I'm an aspiring Junior Front-End Developer from Italy, passionate about building clean and responsive web interfaces. I recently completed the Responsive Web Design Certification from freeCodeCamp and am currently mastering JavaScript Algorithms and Data Structures. I am also a student in the EPICODE Full-Stack Developer Master's program.
 
 ---
 
 ## 🛠️ Tech Stack
 
-- 🌐 HTML, CSS, JavaScript
+- 🌐 HTML, CSS, JavaScript, React
 - ⚙️ Git & GitHub
-- 💡 Currently learning: DOM Manipulation, ES6, and JavaScript best practices
+- 💡 Currently learning: React best practices, Java, Spring
 
 ---
 
@@ -25,8 +25,8 @@ More projects available on my [GitHub Repositories](https://github.com/AndreiBri
 
 ## 🧠 Goals
 
-- 🧪 Improve my JavaScript skills
-- 📘 Learn React.js
+- 🧪 Improve my Back-end skills
+- 📘 Learn Java
 - 🚀 Land my first junior developer role
 
 ---
