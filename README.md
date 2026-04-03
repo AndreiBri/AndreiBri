@@ -1,39 +1,39 @@
-# 👋 Hi, I'm Andrei Briceag!
+#  Hi, I'm Andrei Briceag!
 
 I'm an aspiring Junior Front-End Developer from Italy, passionate about building clean and responsive web interfaces. I recently completed the Responsive Web Design Certification from freeCodeCamp and am currently mastering JavaScript Algorithms and Data Structures. I am also a student in the EPICODE Full-Stack Developer Master's program.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-- 🌐 HTML, CSS, JavaScript, React
-- ⚙️ Git & GitHub
-- 💡 Currently learning: React best practices, Java, Spring
+-  HTML, CSS, JavaScript, React
+-  Git & GitHub
+-  Currently learning: Java, Spring
 
 ---
 
-## 💼 Projects
+##  Projects
 
 Here are a few things I've built:
 
-- 🎯 [To Do List App](https://github.com/AndreiBri/ToDoList)  
-- 🧩 [GameSaves Backup Bot](https://github.com/AndreiBri/GameSave-Backup-Bot)
+-  [To Do List App](https://github.com/AndreiBri/ToDoList)  
+-  [GameSaves Backup Bot](https://github.com/AndreiBri/GameSave-Backup-Bot)
 
 More projects available on my [GitHub Repositories](https://github.com/AndreiBri?tab=repositories)
 
 ---
 
-## 🧠 Goals
+##  Goals
 
-- 🧪 Improve my Back-end skills
-- 📘 Learn Java
-- 🚀 Land my first junior developer role
+-  Improve my Front-end skills
+-  Learn Java
+-  Land my first junior developer role
 
 ---
 
-## 💬 A bit about me
+##  A bit about me
 
-Before diving into code, I worked as a bartender 🍸 — and learned how to deal with pressure, teamwork, and customer service. 
+Before diving into code, I worked as a bartender  — and learned how to deal with pressure, teamwork, and customer service. 
 Now, I apply that same dedication to solving coding problems and collaborating with dev teams.
 
 ---
